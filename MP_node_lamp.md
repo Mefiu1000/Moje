@@ -56,7 +56,7 @@ Light_value:(1-ON,0-OFF)
 |TxID  |2      |0x1D   |0x03   |
 |------|-------|-------|-------|
 |      |DLC    |ERROR  |Code   |
-3) B³¹d nieznany:
+3) Blad nieznany:
 
 |TxID  |2      |0x1D   |0x04   |
 |------|-------|-------|-------|
